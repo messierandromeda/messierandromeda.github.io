@@ -5,6 +5,13 @@ Link: https://mmistakes.github.io/minimal-mistakes/
 ## How to preview the website locally: 
 In terminal run: bundle exec jekyll serve
 
+## Todo:
+Add descriptions to: 
+[-] homepage
+[-] about me
+[-] projects
+[-] CV
+
 ## Skins (color variations)
 
 This theme comes in nine different skins (in addition to the default one).
