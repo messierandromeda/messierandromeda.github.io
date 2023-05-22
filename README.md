@@ -8,11 +8,9 @@ In terminal run: bundle exec jekyll serve
 ## Todo:
 Add descriptions to: 
 * homepage
-
 * about me
-
-[-] projects
-[-] CV
+* projects
+* CV
 
 ## Skins (color variations)
 
