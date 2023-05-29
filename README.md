@@ -4,6 +4,7 @@ Link: https://mmistakes.github.io/minimal-mistakes/
 
 ## How to preview the website locally: 
 In terminal run: bundle exec jekyll serve
+For faster build speed: bundle exec jekyll serve --incremental (only re-builds posts and pages that have changed)
 
 ## Todo:
 Add descriptions to: 
