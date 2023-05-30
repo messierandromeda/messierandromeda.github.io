@@ -26,9 +26,9 @@ Currently, I am planning to do some projects related to machine learning in summ
 
 ## List of programming/markup languages, packages and tools I'm familiar with:
 * Python (matplotlib, numpy, pandas, scikit-learn) <!--, keras, tensorflow): creating graphs and did some data cleaning/preprocessing. -->
-* SQL: I have used this in creating a project using Postgresql.
-* Java: used in the module concurrent and distributed programming
-* C: used in the modules operating systems, concurrent and distributed programming
-* Git, GitHub, GitLab: familiar with version control
-* LaTeX: used this to do assignment sheets and CV
+* SQL
+* Java
+* C
+* Git, GitHub, GitLab
+* LaTeX
 * HTML
