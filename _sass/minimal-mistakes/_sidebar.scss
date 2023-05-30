@@ -62,13 +62,27 @@
   }
 
   img {
-    width: 100%;
+    //width: 100%;
+    max-width: 300px;
+    max-height: 300px;
+    border-radius: 10%;
 
     &.emoji {
       width: 20px;
       height: 20px;
     }
   }
+  
+  // change avatar from round to square
+  /*img{
+    max-width: 300px;
+    border-radius: 10%;
+    
+    @include breakpoint($large){
+      padding: 0px;
+      border: 0px solid $border-color;
+    }
+  }*/
 }
 
 .sidebar__right {

@@ -7,3 +7,30 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+@media(min-width: 80em) {
+
+// changing the avatar size
+.author__avatar {
+display: table-cell;
+vertical-align: top;
+width: 150px; //original: 36px
+height: 150px; //original: 36px
+
+@include breakpoint($large) {
+display: block;
+width: auto;
+height: auto;
+}
+
+img {
+max-width: 400px; //original: 110px
+border-radius: 0%;   // 0% is a square
+
+@include breakpoint($large) {
+  padding: 5px;
+  border: 1px solid $border-color;
+}
+}
+}
+}
