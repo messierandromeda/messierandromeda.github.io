@@ -2,6 +2,7 @@
 title: "About me"
 permalink: /about/
 ---
+<!-- add physisch Kant prize award-->
 
 I am a student currently studying Computer Science in the 4th semester at Freie Universität Berlin. My plan is to do an internship at summer 2024 related to data science or machine learning and getting to work on real-life projects. What especially interests me is the "behind the scenes" of machine learning, so I also read about the newest publications in the field. Not only do the newest research results interest me, but also the theoretical ideas on how they exactly work. I also plan to create some machine learning projects using what I've learned, combining the theoretical and practical aspects. 
 
